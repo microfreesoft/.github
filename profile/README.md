@@ -1,7 +1,6 @@
 ## Microfreesoft 👋
 
-[![Alt text](2.png)](https://www.youtube.com/watch?v=zeYzCOp8Dus)
-<!--
+[![Alt text](profile/2.png)](https://www.youtube.com/watch?v=zeYzCOp8Dus)
 
 **Here are some ideas to get you started:**
 
