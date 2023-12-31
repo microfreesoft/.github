@@ -1,6 +1,6 @@
 ## Microfreesoft 👋
 
-[![Alt text](2.png)](https://www.youtube.com/watch?v=zeYzCOp8Dus)
+[![Alt text](https://ia601206.us.archive.org/33/items/2_20231231/2.png)](https://www.youtube.com/watch?v=zeYzCOp8Dus)
 
 **Here are some ideas to get you started:**
 
