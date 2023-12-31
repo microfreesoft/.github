@@ -1,1 +1,1 @@
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=zeYzCOp8Dus)
+[![Alt text](RZTr2P0PR3W1RKP9JgURow.jpg)](https://www.youtube.com/watch?v=zeYzCOp8Dus)
